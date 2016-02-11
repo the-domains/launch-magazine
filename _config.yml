@@ -10,6 +10,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+typography_spectrum: 0.8575042
 color:
   saturation: 0.5781139
   brandStrength: 0.6956155
@@ -21,6 +22,5 @@ color:
     - '#395365'
     - '#BFBEBD'
   rhythmicContrast: 0.4422819
-typography_spectrum: 0.8575042
-layout_spectrum: 0.851602
+layout_spectrum: 0.9983137
 name: Launch Magazine
