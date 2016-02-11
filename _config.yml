@@ -1,0 +1,26 @@
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.5781139
+  brandStrength: 0.6956155
+  lightness: 0.1119541
+  brandColors:
+    - '#020202'
+    - '#FF7E00'
+    - '#FFFFFF'
+    - '#395365'
+    - '#BFBEBD'
+  rhythmicContrast: 0.4422819
+typography_spectrum: 0.8575042
+layout_spectrum: 0.851602
+name: Launch Magazine
