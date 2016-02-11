@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Launch Magazine]]></title>
         <description><![CDATA[Launch Magazine]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/launch-magazine/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 11 Feb 2016 12:03:41 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 11 Feb 2016 12:06:38 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/launch-magazine/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Testing 123]]></title>
+            <description><![CDATA[<article><h1>Testing 123</h1><p>Seems like a good day to remember Alex Schomburg, the commercial and comic book artist who died in 1998. Here's an image of the cover art he did for a 1954 book, "Rockets to Nowhere."</p></article>]]></description>
+            <link>https://www.facebook.com/625890014191829/photos/a.626737587440405.1073741831.625890014191829/918159761631518/?type=3&amp;theater</link>
+            <guid isPermaLink="false">27c771fe-05ac-42c9-aa4f-06b6da0101f7</guid>
+            <pubDate>Thu, 11 Feb 2016 12:06:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Rockets To Nowhere]]></title>
             <description><![CDATA[<h1>Rockets To Nowhere</h1>]]></description>
-            <link>undefinedrockets-to-nowhere/index.html</link>
+            <link>https://thegrid.ai/launch-magazine/rockets-to-nowhere/index.html</link>
             <guid isPermaLink="false">9385e1bd-7dbc-4185-8b4f-e969d78976c1</guid>
             <pubDate>Thu, 11 Feb 2016 12:03:40 GMT</pubDate>
         </item>
